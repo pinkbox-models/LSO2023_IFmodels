@@ -22,7 +22,9 @@ testIPDcoding     : Sample code for plotting binaural phase-tuning curve of each
 testILDcoding     : Sample code for plotting binaural intensity-tuning curve of each model 
 
 %%% Notes %%%
-The LSOmodelPLkIF and LSOmodelASpIF models are respectively the same as the LSOmodelPIF and LSOmodelAIF models in the 2017 package but with a revised refractory period of 2.0 ms. For more information of each model, see the reference below. 
+The LSOmodelPLkIF and LSOmodelASpIF models are respectively the same as the 
+LSOmodelPIF and LSOmodelAIF models in the 2017 package but with a revised 
+refractory period of 2.0 ms. For more information of each model, see the reference below. 
 
 %%% Reference %%% 
 Ashida G, Wang T, Kretzberg J (2023/2024) To be submitted 
